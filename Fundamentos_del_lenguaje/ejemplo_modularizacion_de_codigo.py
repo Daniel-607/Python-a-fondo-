@@ -38,7 +38,7 @@ interna , se puede entender la ejecucion facilmente y facilita que se puedan cam
 su pongamos que a hora cambia la expesificacion del problema de la siguiente forma: se prentende aplicar la funcion de cifrado0 sha256 en vez de md5 y guardar en formato Json 
 en vez de texto plano.
 
-Para cumplir con los nuevos requisitos solo es necesario crear unas funciones que sostituyan lo que no se quiere usar a hora.
+Para cumplir con los nuevos requisitos solo es necesario crear unas funciones que sostituyan lo que no se quiere usar a hora...
 """
 
 def aplicar_hash(lst):
