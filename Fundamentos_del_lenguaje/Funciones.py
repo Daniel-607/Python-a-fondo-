@@ -65,4 +65,4 @@ def añadir_valor_seguro(elem, lst=None):#Valor por defecto correcto
         return lst
 
 añadir_valor_seguro(1)
-añadir_valor_seguro(5)
+añadir_valor_seguro(4)
